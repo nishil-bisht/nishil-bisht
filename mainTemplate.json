@@ -5800,7 +5800,7 @@
             "apiVersion": "2023-04-01-preview",
             "location": "[parameters('workspace-location')]",
             "properties": {
-                "version": "1.0.0",
+                "version": "3.1.1",
                 "kind": "Solution",
                 "contentSchemaVersion": "3.0.0",
                 "displayName": "Power Platform",
