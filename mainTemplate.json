@@ -45,7 +45,7 @@
     },
     "variables": {
         "_solutionName": "Power Platform",
-        "_solutionVersion": "1.0.0",
+        "_solutionVersion": "3.1.1",
         "solutionId": "sentinel4dynamics365.powerplatform",
         "_solutionId": "[variables('solutionId')]",
         "uiConfigId1": "PowerPlatformInventory",
