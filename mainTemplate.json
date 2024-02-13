@@ -5161,7 +5161,7 @@
                 "id": "[variables('_dataConnectorcontentProductId14')]",
                 "packageId": "[variables('_solutionId')]",
                 "contentSchemaVersion": "3.0.0",
-                "version": "[variables('dataConnectorVersion14')]"
+                "version": "[variables('_dataConnectorVersion14')]"
             }
         },
         {
