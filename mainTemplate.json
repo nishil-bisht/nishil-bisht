@@ -5388,7 +5388,7 @@
                 "contentProductId": "[concat(take(variables('_solutionId'), 50),'-','rdc','-', uniqueString(concat(variables('_solutionId'),'-','ResourcesDataConnector','-',variables('_dataConnectorContentIdConnections14'),'-', variables('dataConnectorVersionConnections14'))))]",
                 "packageId": "[variables('_solutionId')]",
                 "contentSchemaVersion": "3.0.0",
-                "version": "[variables('_solutionVersion')]"
+                "version": "[variables('dataConnectorVersionConnections14')]"
             }
         },
         {
